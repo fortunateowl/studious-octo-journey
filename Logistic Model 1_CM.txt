@@ -1,0 +1,11 @@
+\begin{tabular}{| c | c  c |} 
+\multicolumn{3}{c}{\textbf{Confusion Matrix}} \\ 
+\hline 
+& Predicted & Predicted \\ 
+& Negative & Positive \\ 
+\hline 
+Real Negative & \cellcolor{green!}4562 & \cellcolor{red!}383 \\ 
+\cline{1-1} 
+Real Positive & \cellcolor{red!}634 & \cellcolor{green!}934 \\ 
+\hline 
+\end{tabular} 

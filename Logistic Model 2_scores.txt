@@ -1,0 +1,10 @@
+\begin{tabular}{| l c |} 
+\multicolumn{2}{c}{\textbf{Results}} \\ 
+\hline 
+Accuracy: & 0.80 \\ 
+Recall: & 0.83 \\ 
+Precision: &  0.56 \\ 
+F1: &  0.67 \\ 
+False Positive Rate: & 0.20 \\ 
+\hline 
+\end{tabular}
